@@ -29,6 +29,6 @@
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=aclongo&theme=tokyonight">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=aclongo&count_private=true&show_icons=true&theme=tokyonight" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aclongo&hide=php&theme=tokyonight">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aclongo&count_private=true&hide=php&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclongo&hide=php&theme=tokyonight" /></a>
 </div>
