@@ -3,7 +3,7 @@
 ## 👩‍🏫 I'm a science teacher!
 - 😄 Pronouns: She/Her
 - 🍎 I teach high school Chemistry and Environmental Management
-- 🤔 I’m looking for help transitioning to a new career, such as Environmental Data Science
+- 🤔 I’m looking for help transitioning to a new career, such as with GIS for Environmental Science
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), and [The Ultimate Introduction to Python](https://www.youtube.com/watch?v=mDKM-JtUhhc&t=14773s)
 
 ## 🌱 I Am Currently Learning: 
