@@ -1,5 +1,4 @@
 ## 👩‍🏫 I'm a Science Teacher!
-- 😄 Pronouns: She/Her
 - 🍎 I teach high school Chemistry and Environmental Management
 - 🤔 I’m studying to transition to a new career as a Data Scientist and GIS Analyst, preferably in the field of Environmental Science
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), [Codecademy's Data Scientist Career Path](https://www.codecademy.com/pages/data-science-career-specializations) and [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis), among other things
@@ -22,12 +21,11 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="Pygame" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.r-project.org/Rlogo.png" alt="R" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :trophy: My Github Stats:
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=aclongo&theme=tokyonight">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=aclongo&count_private=true&show_icons=true&theme=tokyonight" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aclongo&count_private=true&hide=php&theme=tokyonight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclongo&hide=php&theme=tokyonight" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aclongo&layout=compact&hide=php&theme=tokyonight" /></a>
 </div>
