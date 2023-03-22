@@ -1,7 +1,9 @@
 ## 👩‍🏫 I'm a Science Teacher!
-- 🍎 I teach high school Chemistry and Environmental Management
-- 🤔 I’m studying to transition to a new career as a Data Scientist and GIS Analyst, preferably in the field of Environmental Science
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), [Codecademy's Data Scientist Career Path](https://www.codecademy.com/pages/data-science-career-specializations) and [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis), among other things
+- 🔬 I teach high school Chemistry and Environmental Management and have been a teacher for 10 years
+- 🧪 I am the Science Fair coordinator for my school, so I help kids use the scientific method to conduct research and analyze data
+- 🧬 I have a Bachelor's in Marine Science & Biology from the University of Tampa where I did biological statistics and completed an internship at the St. Petersburg Fish & Wildlife Research Institute
+- 📊 I’m studying to transition to a new career as a Data Scientist and GIS Analyst, preferably in the field of Environmental Science
+- 💻 I’m currently working on [The Odin Project](https://www.theodinproject.com/), [Codecademy's Data Scientist Career Path](https://www.codecademy.com/pages/data-science-career-specializations) and [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis), among other things
 
 ## 🌱 Languages/Tools I Am Currently Learning: 
 <p align="left">
