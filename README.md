@@ -1,12 +1,10 @@
-# Welcome to my page! 👋
-
-## 👩‍🏫 I'm a science teacher!
+## 👩‍🏫 I'm a Science Teacher!
 - 😄 Pronouns: She/Her
 - 🍎 I teach high school Chemistry and Environmental Management
-- 🤔 I’m studying to transition to a new career as a Data Scientist and GIS Analyst in the field of Environmental Science
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), [Codecademy's Data Scientist Career Path](https://www.codecademy.com/pages/data-science-career-specializations) and [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) 
+- 🤔 I’m studying to transition to a new career as a Data Scientist and GIS Analyst, preferably in the field of Environmental Science
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), [Codecademy's Data Scientist Career Path](https://www.codecademy.com/pages/data-science-career-specializations) and [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis), among other things
 
-## 🌱 I Am Currently Learning: 
+## 🌱 Languages/Tools I Am Currently Learning: 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/125140476/226502061-5d73c415-2638-49ba-bf65-73e38c4aef8d.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -20,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
   </a></p>
   
-## 🌟 I Want to Learn:
+## 🌟 Languages/Tools I Want to Learn:
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="Pygame" height="40" style="vertical-align:top; margin:4px">
