@@ -2,9 +2,9 @@
 - 🔬 I teach high school Chemistry and Environmental Management and have been a teacher for 10 years
 - 🧪 I am the Science Fair coordinator for my school, so I help kids use the scientific method to conduct research and analyze data
 - 🧬 I have a Bachelor's in Marine Science & Biology from the University of Tampa where I did biological statistics and completed an internship at the St. Petersburg Fish & Wildlife Research Institute
-- 📊 I’m studying to transition to a new career as a Data Scientist and GIS Analyst, preferably in the field of Environmental Science
+- 📊 I’m studying coding as a hobby and to gain new skills 
 - 💻 I really enjoy learning and practicing coding!
-- 💾 I’m currently working on [The Odin Project](https://www.theodinproject.com/), [Codecademy's Data Scientist Career Path](https://www.codecademy.com/pages/data-science-career-specializations) and [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis), among other things
+- 💾 I’m currently working on [The Odin Project](https://www.theodinproject.com/) and [freeCodeCamp's Responsive Web Design]([https://www.theodinproject.com/](https://www.freecodecamp.org/learn/2022/responsive-web-design))
 
 ## 🌱 Languages/Tools I Am Currently Learning: 
 <p align="left">
@@ -24,7 +24,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" alt="Pygame" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.r-project.org/Rlogo.png" alt="R" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :trophy: My Github Stats:
