@@ -2,8 +2,7 @@
 - 🔬 I teach high school Chemistry and Environmental Management and have been a teacher for 10 years
 - 🧪 I am the Science Fair coordinator for my school, so I help kids use the scientific method to conduct research and analyze data
 - 🧬 I have a Bachelor's in Marine Science & Biology from the University of Tampa where I did biological statistics and completed an internship at the St. Petersburg Fish & Wildlife Research Institute
-- 📊 I’m studying coding as a hobby and to gain new skills 
-- 💻 I really enjoy learning and practicing coding!
+- 💻 I really enjoy learning as a hobby and to gain new skills!
 - 💾 I’m currently working on [The Odin Project](https://www.theodinproject.com/) and [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 
 ## 🌱 Languages/Tools I Am Currently Learning: 
