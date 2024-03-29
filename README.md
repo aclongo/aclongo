@@ -4,7 +4,7 @@
 - 🧬 I have a Bachelor's in Marine Science & Biology from the University of Tampa where I did biological statistics and completed an internship at the St. Petersburg Fish & Wildlife Research Institute
 - 📊 I’m studying coding as a hobby and to gain new skills 
 - 💻 I really enjoy learning and practicing coding!
-- 💾 I’m currently working on [The Odin Project](https://www.theodinproject.com/) and [freeCodeCamp's Responsive Web Design]([https://www.theodinproject.com/](https://www.freecodecamp.org/learn/2022/responsive-web-design))
+- 💾 I’m currently working on [The Odin Project](https://www.theodinproject.com/) and [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 
 ## 🌱 Languages/Tools I Am Currently Learning: 
 <p align="left">
